@@ -1,5 +1,5 @@
 //your JS code here. If required.
-document.addEventListener('DOMContentLoaded' function(){
+document.addEventListener('DOMContentLoaded', function(){
 	const button = document.querySelector('input[type="button"]');
 
 	button.addEventListener("click", function(){
